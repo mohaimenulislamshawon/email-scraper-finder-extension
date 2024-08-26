@@ -1,0 +1,1 @@
+# email-scraper-finder-extension
