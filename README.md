@@ -2,8 +2,7 @@
 A Chrome extension that continuously scrap and collects email addresses from web pages, allowing users to easily copy or delete them. The extension can be toggled on or off, and it provides a simple interface to manage collected emails.
 
 
-https://github.com/user-attachments/assets/011c5122-635a-4adb-9436-8e117f73a665
-
+https://github.com/user-attachments/assets/09694452-a581-4076-a811-7be1244bc352
 
 ## Features
 
