@@ -14,7 +14,7 @@ https://github.com/user-attachments/assets/09694452-a581-4076-a811-7be1244bc352
 
 ## Load the extension in Chrome
 
-- Download ZIP from here: [email-finder-extension.zip](https://github.com/user-attachments/files/16748212/email-finder-extension.zip)
+- Download ZIP from here: [email-finder-extension.zip](https://github.com/user-attachments/files/16750272/email-finder-extension.zip)
 - Open Chrome and navigate to chrome://extensions/.
 - Enable "Developer mode" in the top right corner.
 - Click on "Load unpacked" and select the ZIP file.
