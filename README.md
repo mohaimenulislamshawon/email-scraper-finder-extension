@@ -1,6 +1,5 @@
 # Free Email Scraper Chrome Extension: Find & Collect
-A Chrome extension that continuously scrap and collects email addresses from web pages, allowing users to easily copy or delete them. The extension can be toggled on or off, and it provides a simple interface to manage collected emails.
-
+Effortlessly discover and gather email addresses from any web page with this easy-to-use Chrome extension. Automatically scan websites to find and store email contacts, then manage them with simple copy and delete functions. Ideal for business professionals, digital marketers, and researchers looking to streamline their contact collection process. Enhance your productivity and build your email lists efficiently.
 
 https://github.com/user-attachments/assets/09694452-a581-4076-a811-7be1244bc352
 
